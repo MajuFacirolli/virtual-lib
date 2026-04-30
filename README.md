@@ -14,6 +14,8 @@ O projeto segue a arquitetura MVVM (Model-View-ViewModel) com o padrão de Repos
 - **Coil** (Carregamento assíncrono de imagens)
 - **Firebase Authentication**
 
+![Arquitetura do Projeto](app/arquitetura.svg)
+
 ## Como rodar o projeto
 1. Abra o projeto no **Android Studio**.
 2. Certifique-se de ter um arquivo `google-services.json` válido na pasta `app/` vinculado ao seu projeto Firebase (com Email/Password ativado).
