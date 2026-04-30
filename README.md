@@ -26,4 +26,12 @@ O projeto segue a arquitetura MVVM (Model-View-ViewModel) com o padrão de Repos
 ## Fazendo o download do apk
 - O APK está localizado na raiz do projeto, `app-debug.apk`.
 ---
-*Desenvolvido com foco em código limpo, design reativo e usabilidade.*
+
+## Screenshots
+
+<div align="center">
+  <img src="1.jpeg" width="200" alt="Screenshot 1"/>
+  <img src="2.jpeg" width="200" alt="Screenshot 2"/>
+  <img src="3.jpeg" width="200" alt="Screenshot 3"/>
+  <img src="4.jpeg" width="200" alt="Screenshot 4"/>
+</div>
