@@ -16,11 +16,14 @@ O projeto segue a arquitetura MVVM (Model-View-ViewModel) com o padrão de Repos
 
 ![Arquitetura do Projeto](app/arquitetura.svg)
 
-## Como rodar o projeto
+# Como rodar o projeto
+## Compilando-o via Android Studio
 1. Abra o projeto no **Android Studio**.
 2. Certifique-se de ter um arquivo `google-services.json` válido na pasta `app/` vinculado ao seu projeto Firebase (com Email/Password ativado).
 3. Clique em **Sync Project with Gradle Files** para baixar as dependências (`Retrofit`, `Coil`, `Firebase`, etc).
 4. Clique em **Run (Shift + F10)** para instalar o app no emulador ou dispositivo físico.
 
+## Fazendo o download do apk
+- O APK está localizado na raiz do projeto, `app-debug.apk`.
 ---
 *Desenvolvido com foco em código limpo, design reativo e usabilidade.*
